@@ -9,7 +9,7 @@
     For a live, cross-referenced audit matrix mapping all 38 thought experiments directly to active astronomical and laboratory instruments (JWST, Euclid, DESI, Rubin, Gaia, LVK, AugerPrime, etc.), download the companion spreadsheet:
 
     * **[`FSM_Thought_Experiments_and_Telemetry_Tracker.xlsx`](./FSM_Thought_Experiments_and_Telemetry_Tracker.xlsx)**
-      * **Tab 1: Master Thought Experiments (TE-01 to TE-38):** Complete theoretical breakdown, primary categories, assigned validation tiers (Tiers 1–3), and methodology.
+      * **Tab 1: Master Thought Experiments (TE-01 to TE-39):** Complete theoretical breakdown, primary categories, assigned validation tiers (Tiers 1–3), and methodology.
       * **Tab 2: Observational & Lab Pipeline Tracker:** Dedicated instrument-by-instrument operational tracking matrix covering telemetry release milestones, targeted FSM proof criteria, and notes.
   
     ---
@@ -71,3 +71,4 @@
     * **[Experiment 36](8_Cosmic_Oddities_and_Deep_Time_Artifacts/36%20-%20The%20Swallowed%20Primordial%20Cloud,%20the%20Induced%20Hypergiant%20Purge,%20and%20the%20Symmetrical%20Blast%20Radius%20of%20Hoag's%20Object.md):** Hoag's Object formed by a swallowed primordial cloud, hypergiant purge, and 13-billion-year substrate healing.
     * **[Experiment 37](8_Cosmic_Oddities_and_Deep_Time_Artifacts/37%20-%20The%20Space%20Roar,%20The%20Recombination%20Flash,%20and%20the%20Kinetic%20Echo.md):** The Space Roar as the redshifted non-thermal radio flash of the cosmic rebound shockfront breaking the recombination barrier.
     * **[Experiment 38](8_Cosmic_Oddities_and_Deep_Time_Artifacts/38%20-%20Wave-Particle%20Duality,%20The%20Collapse%20Mirage,%20and%20Substrate%20Shear%20Saturation.md):** The Double-Slit Experiment resolved as dual-mode pilot wake propagation; measurement collapse is energetic shear saturation ($ש_{S\text{-MAX}}$).
+    * **[Experiment 39](8_Cosmic_Oddities_and_Deep_Time_Artifacts/39%20-%20Supernova%201987A,%20Dual-Signal%20Decoupling,%20and%20the%20Primordial%20Core%20Transit%20Wall.md):** The SN 1987A 13-second burst and multi-hour optical delay resolved as zero-mass neutrino chord transit through a primordial matter core wall.
