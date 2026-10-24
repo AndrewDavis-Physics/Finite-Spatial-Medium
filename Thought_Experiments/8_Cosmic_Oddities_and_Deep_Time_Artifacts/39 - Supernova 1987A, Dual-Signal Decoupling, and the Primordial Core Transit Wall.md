@@ -1,4 +1,4 @@
-# Thought Experiment 39: Supernova 1987A, Dual-Signal Decoupling, and the Primordial Core Transit Wall
+## Thought Experiment 39: Supernova 1987A, Dual-Signal Decoupling, and the Primordial Core Transit Wall
 
 **The Scenario:**
 On February 23, 1987, core-collapse supernova SN 1987A detonated in the Large Magellanic Cloud, approximately 168,000 light-years from Earth. Underground detectors (Kamiokande II, IMB, and Baksan) registered a total of 24 neutrinos clustered within an arrival duration of approximately 13 seconds. Telescopes recorded the initial optical brightening roughly two to three hours later. Standard astrophysics explains this chronology through a patchwork of disconnected continuous approximations:

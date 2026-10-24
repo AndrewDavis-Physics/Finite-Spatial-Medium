@@ -9,7 +9,7 @@
     For a live, cross-referenced audit matrix mapping all 38 thought experiments directly to active astronomical and laboratory instruments (JWST, Euclid, DESI, Rubin, Gaia, LVK, AugerPrime, etc.), download the companion spreadsheet:
 
     * **[`FSM_Thought_Experiments_and_Telemetry_Tracker.xlsx`](./FSM_Thought_Experiments_and_Telemetry_Tracker.xlsx)**
-      * **Tab 1: Master Thought Experiments (TE-01 to TE-39):** Complete theoretical breakdown, primary categories, assigned validation tiers (Tiers 1–3), and methodology.
+      * **Tab 1: Master Thought Experiments (TE-01 to TE-40):** Complete theoretical breakdown, primary categories, assigned validation tiers (Tiers 1–3), and methodology.
       * **Tab 2: Observational & Lab Pipeline Tracker:** Dedicated instrument-by-instrument operational tracking matrix covering telemetry release milestones, targeted FSM proof criteria, and notes.
   
     ---
@@ -21,7 +21,7 @@
     ### Section 1: Timeline of the Universe
     * **[Experiment 1](Thought_Experiments/1_Timeline_of_the_Universe/01%20-%20The%20Giant%20Cosmic%20Sneeze.md):** Surviving primordial black hole seeds from the asynchronous cosmic rebound.
     * **[Experiment 2](Thought_Experiments/1_Timeline_of_the_Universe/02%20-%20The%20Primordial%20Ground%20Zero%20%26%20The%20Elastomechanical%20Evacuation%20Horizon.md):** The CMB Cold Spot and Eridanus Supervoid as the primary regional detonation epicenter.
-    * **[Experiment 3](Thought_Experiments/1_Timeline_of_the_Universe/03%20-%20Cosmic%20Inflation%20and%20Spatial%20Inertia.md):** Cosmic inflation driven by elastomechanical decompression and halted by spatial inertia.
+    * **[Experiment 3](Thought_Experiments/1_Timeline_of_the_Universe/03%20-%20Cosmic%20Inflation%20and%20the%20Inertial%20Braking%20Limit.md):** Cosmic inflation driven by primordial matter detonation and halted by the substrate's inertial braking limit.
     * **[Experiment 4](Thought_Experiments/1_Timeline_of_the_Universe/04%20-%20The%20Constructive%20Cavitation%20Matrix.md):** The cosmic web forged by colliding secondary cavitation shockfronts.
     * **[Experiment 5](Thought_Experiments/1_Timeline_of_the_Universe/05%20-%20The%20Primordial%20Geometric%20Scaffold.md):** The cosmic web and BAO as fossilized cymatic acoustic standing waves.
     * **[Experiment 6](Thought_Experiments/1_Timeline_of_the_Universe/06%20-%20The%20Multi-Phase%20Expansion%20%26%20The%20Expansion%20Apex.md):** A four-phase expansion resolving the Hubble tension without dark energy particles.
@@ -72,3 +72,4 @@
     * **[Experiment 37](Thought_Experiments/8_Cosmic_Oddities_and_Deep_Time_Artifacts/37%20-%20The%20Space%20Roar,%20The%20Recombination%20Flash,%20and%20the%20Kinetic%20Echo.md):** The Space Roar as the redshifted non-thermal radio flash of the cosmic rebound shockfront breaking the recombination barrier.
     * **[Experiment 38](Thought_Experiments/8_Cosmic_Oddities_and_Deep_Time_Artifacts/38%20-%20Resolving%20Wave-Particle%20Duality%20and%20the%20Transverse%20Shear%20Limit.md):** The Double-Slit Experiment resolved as dual-mode pilot wake propagation; measurement collapse is energetic shear saturation ($ש_{S\text{-MAX}}$).
     * **[Experiment 39](Thought_Experiments/8_Cosmic_Oddities_and_Deep_Time_Artifacts/39%20-%20Supernova%201987A,%20Dual-Signal%20Decoupling,%20and%20the%20Primordial%20Core%20Transit%20Wall.md):** The SN 1987A 13-second burst and multi-hour optical delay resolved as zero-mass neutrino chord transit through a primordial matter core wall.
+    * **[Experiment 40](Thought_Experiments/5_Universal_Macro_Metrics/40%20-%20Standard%20Candle%20Metric%20Failure%20and%20Line-of-Sight%20Void%20Dilation.md):** The Hubble tension resolved as standard candle metric failure from filamentary non-expansion and void dilation.

@@ -1,4 +1,4 @@
-# Thought Experiment 3: Cosmic Inflation and the Inertial Braking Limit
+## Thought Experiment 3: Cosmic Inflation and the Inertial Braking Limit
 
 **The Scenario:** 
 Standard continuous cosmology requires a hypothetical, superluminal expansion epoch termed "Cosmic Inflation" ($10^{-36}\text{ seconds}$) driven by an unobserved quantum scalar field (the "inflaton") to solve the Horizon and Flatness problems, followed by fine-tuned "slow-roll" decay parameters to force a graceful exit. The Finite Spatial Medium eliminates the need for an exotic scalar field, demonstrating that early hyper-expansion and its subsequent deceleration are the direct elastomechanical consequences of a dual kinetic uncompression—the asynchronous rebound of the spatial medium coupled with an explosive, substrate-saturating primordial matter detonation—throttled by the structural inertia and intrinsic elastomechanical resistance of the physical substrate itself.
