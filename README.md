@@ -17,7 +17,7 @@ I understand the physical logic of this framework inside and out because I built
 
 ## Getting Started: Core Reading
 If you are new to the framework, start here before diving into the thought experiments:
-- **[Einstein's Unfinished Substrate](Einstein's%20Unfinished%20Substrate.md)** – The architectural foundation: space as a discrete, volume-conserving cellular medium with an invariant update speed.
+- **[Einstein's Unfinished Substrate: The Finite Spatial Medium and the Elastomechanics of Gravity](Einstein's%20Unfinished%20Substrate%20-%20The%20Finite%20Spatial%20Medium%20and%20the%20Elastomechanics%20of%20Gravity.md)** – The architectural foundation: space as a discrete, volume-conserving cellular medium with an invariant update speed.
 - **[The Elastomechanical Translation of the Fundamental Forces: A Unification via the Finite Spatial Medium](The%20Elastomechanical%20Translation%20of%20the%20Fundamental%20Forces%20-%20A%20Unification%20via%20the%20Finite%20Spatial%20Medium.md)** – How gravity (compression), electromagnetism (shear), the strong force (incompressibility limit), and the weak force (shear-slip relief) emerge from a single medium.
 
 ---
